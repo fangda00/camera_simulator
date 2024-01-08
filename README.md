@@ -15,7 +15,7 @@ python camera_simulator.py
   - Win64 installer for Python 3.10.11, the last version in 3.10 with an installer binary.
   - Make sure pip is installed too during the installation process by checking the “install pip” option.
 
-## Install OpenGL via pip
+## Install OpenGL's Python binding via pip
 
 ### Set domestic mirror for pip source
 - [Guide](https://www.runoob.com/w3cnote/pip-cn-mirror.html)
@@ -26,10 +26,6 @@ python camera_simulator.py
 - [Guide](https://pyopengl.sourceforge.net/documentation/installation.html)
 - `pip install PyOpenGL PyOpenGL_accelerate`
 - Check installation by `python -c "import OpenGL"`; output should be empty indicating no error.
-
-## Install Numpy
-- `pip install numpy`
-- Check installation by `python -c "import numpy as np"`
 
 ## Installing PyQt
 - `pip install pyqt5`
