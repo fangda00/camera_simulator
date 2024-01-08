@@ -5,6 +5,7 @@ Usage:
 ```
 python camera_simulator.py
 ```
+![Screenshot](images/screenshot.png)
 
 # Requirements
 
